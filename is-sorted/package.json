@@ -1,0 +1,18 @@
+{
+  "name": "is-sorted",
+  "version": "1.0.0",
+  "description": "```javascript\r     console.log(sorted([1, 2, 3])) // true\r     console.log(sorted([3, 1, 2])) // false\r     console.log(sorted([1, 2, 3], function (a, b) { return a - b;})); // true\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "is-sorted"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
