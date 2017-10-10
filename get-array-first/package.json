@@ -1,0 +1,17 @@
+{
+  "name": "get-array-first",
+  "version": "1.0.0",
+  "description": "```javascript\r var first = require('get-array-first');\r first(['a', 'b', 'c', 'd']); // 'a'\r first(['a', 'b', 'c', 'd'], 1); // 'a'\r first(['a', 'b', 'c', 'd'], 2); // ['a', 'b']\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "array-slice": "1.0.0",
+    "is-number": "3.0.0",
+    "mocha": "4.0.1",
+    "should": "13.1.1"
+  }
+}
