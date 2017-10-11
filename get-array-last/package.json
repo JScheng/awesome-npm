@@ -1,0 +1,16 @@
+{
+  "name": "get-array-last",
+  "version": "1.0.0",
+  "description": "```javascript\r var first = require('get-array-last');\r first(['a', 'b', 'c', 'd']); // 'd'\r first(['a', 'b', 'c', 'd'], 1); // 'd'\r first(['a', 'b', 'c', 'd'], 2); // ['c', 'd']\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "is-number": "3.0.0",
+    "mocha": "4.0.1",
+    "should": "13.1.2"
+  }
+}
