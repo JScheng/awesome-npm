@@ -1,0 +1,14 @@
+{
+  "name": "unordered-array-remove",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/index.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "4.8.0"
+  }
+}
