@@ -1,6 +1,6 @@
 ### to-no-case
 
-#### useage
+#### usage
 
 ```javascript
 var toNoCase = require('to-no-case')

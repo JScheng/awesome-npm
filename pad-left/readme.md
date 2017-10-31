@@ -1,6 +1,6 @@
 ### pad-left
 
-#### usege
+#### usage
 
 ```javascript
     var pad = require('pad-left');

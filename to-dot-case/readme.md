@@ -1,6 +1,6 @@
 ### to-dot-case
 
-#### useage
+#### usage
 
 ```javascript
     var toDotCase = require('to-dot-case');

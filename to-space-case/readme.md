@@ -1,6 +1,6 @@
 ### to-space-case
 
-#### useage
+#### usage
 
 ```javascript
    var toSpaceCase = require('to-space-case'); 

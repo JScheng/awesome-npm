@@ -1,6 +1,6 @@
 ### 驼峰命名to-camel-case
 
-#### useage
+#### usage
 
 ```javascript
     var toCamelCase = require('to-camel-case');

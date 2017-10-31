@@ -1,6 +1,6 @@
 ### rtrim
 
-#### useage
+#### usage
 
 ```javascript
 

@@ -1,6 +1,6 @@
 ### to-sentence-case
 
-#### useage
+#### usage
 
 ```javascript
     var toSentenceCase('to-sentence-case');

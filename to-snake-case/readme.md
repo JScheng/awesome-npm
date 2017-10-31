@@ -1,6 +1,6 @@
 ### to-snake-case
 
-#### useage
+#### usage
 
 ```javascript
 
