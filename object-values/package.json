@@ -1,0 +1,17 @@
+{
+  "name": "object-values",
+  "version": "1.0.0",
+  "description": "```javascript\r     const objectValues = require('object-values');\r     objectValues({foo: 0, bar: 1});\r     // => [0, 1]\r ```",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "0.23.0"
+  }
+}
